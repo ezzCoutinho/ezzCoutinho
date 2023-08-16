@@ -1,0 +1,4 @@
+- 👋 Olá, me chamo Coutinho
+- 👀 estou interessado em Python e cloud.
+- 🌱 Estou aprendendo Python.
+- 📫 Como me contactar; lammerlopes@hotmail.com.
