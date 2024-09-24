@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Matheus and I am a development student from Brazil.</p>
+<p align="left">My name is Matheus and i am a development student from Brazil.</p>
 
 ###
 
