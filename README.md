@@ -25,7 +25,7 @@
 <h2 align="left">I code with</h2>
 
 <div align="left">
-  <a href="?tab=repositories&q=&type=&language=javascript&sort=">
+  <a href="https://github.com/ezzCoutinho?tab=repositories&q=&type=&language=javascript&sort=">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
