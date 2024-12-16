@@ -18,7 +18,7 @@
 
 <h1>I'm 25 years old and interested in getting into the development field. Always learning...</h1>
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript/TypeScript<br>🎯 Goals: Jr Developer<br></p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python and some more things...<br>🎯 Goals: Jr Developer<br></p>
 
 ###
 
