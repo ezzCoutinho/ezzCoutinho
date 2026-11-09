@@ -1,0 +1,21 @@
+on:
+  schedule:
+    - cron: "0 9 * * *"   # todo dia 1x ao dia (UTC)
+  workflow_dispatch:       # permite rodar na mao
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/update_age.py
+      - run: |
+          git config user.name "age-bot"
+          git config user.email "age-bot@users.noreply.github.com"
+          git diff --quiet || (git add README.md && git commit -m "chore: update age" && git push)
