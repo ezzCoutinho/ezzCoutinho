@@ -2,7 +2,7 @@ from datetime import date
 import re
 from pathlib import Path
 
-BIRTHDAY = date(2000, 1, 1)  # data de nascimento (ano, mes, dia)
+BIRTHDAY = date(2000, 1, 1)
 README = Path(__file__).resolve().parent.parent / "README.md"
 
 
