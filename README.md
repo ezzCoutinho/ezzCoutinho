@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 
-<h1>I'm 26 years old and interested in getting into the development field. Always learning...</h1>
+<h1>I'm <!-- BEGIN_AGE -->26<!-- END_AGE --> years old and interested in getting into the development field. Always learning...</h1>
 
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python and some more things...<br></p>
 
